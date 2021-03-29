@@ -1,33 +1,4 @@
-Skip to content
-Search or jump to…
 
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@LilaKelland 
-noahgift
-/
-Python-Functions-from-Zero
-1
-31
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Python-Functions-from-Zero/.github/workflows/main.yml
-@noahgift
-noahgift Create main.yml
-Latest commit b466456 on Feb 11
- History
- 1 contributor
-29 lines (23 sloc)  510 Bytes
-  
 name: Python application test with Github Actions
 
 on: [push]
