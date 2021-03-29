@@ -2,5 +2,5 @@
 
 # testing-tests
 
-##Test project
-make lint && make test
+### Test project
+`make lint && make test`
