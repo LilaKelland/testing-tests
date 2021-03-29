@@ -9,5 +9,5 @@ def with_input(color):
     return color_dict
 
 
-if __name__ == "__main__":
-    print(with_input("blue"))
+# if __name__ == "__main__":
+print(with_input("blue"))

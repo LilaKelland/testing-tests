@@ -1,6 +1,6 @@
 from hello import with_input
-from cli import callcolor
-from click.testing import CliRunner
+# from cli import callcolor
+# from click.testing import CliRunner
 
 
 def test_with_input():
