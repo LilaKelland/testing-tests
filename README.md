@@ -4,3 +4,6 @@
 
 ### Test project
 `make lint && make test`
+
+### Containerize 
+(read - container from scratch sample project)
